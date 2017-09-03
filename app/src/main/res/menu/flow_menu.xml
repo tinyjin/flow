@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:title="Draw line"
+        android:id="@+id/draw_line"
+        android:icon="@mipmap/ico_liner"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:title="Run"
+        android:id="@+id/flow_compile"
+        android:icon="@mipmap/ico_compile"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:title="Translate"
+        android:id="@+id/flow_translate"
+        android:icon="@mipmap/ico_translate"
+        app:showAsAction="ifRoom"
+        />
+
+
+
+
+</menu>
